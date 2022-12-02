@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    width: 400px;
+    padding: 30px;
+    height: 500px;
+
+}
+.all{
+    display: block;
+    height: 30px;
+}
+
+form{
+    text-align:center;
+    
+}
+.container{
+    text-align: center;
+    border: 2px solid rgb(210, 210, 210);
+    height: 430px;
+    position: relative;
+    left: 550px;
+    
+    
+}
+.div{
+ border-radius: 5px;
+}
+.twitter{
+    border-radius: 2px;
+    border-color:rgb(78, 195, 249) ;
+    height: 25px;
+    width: 200px;
+    background-color: rgb(78, 195, 249);
+    color: white;
+
+}
+.facebook{
+    border-radius: 2px;
+    height: 25px;
+    width: 200px;
+    background-color: rgb(67, 67, 245);
+    border-color:rgb(67, 67, 245) ;
+    color: white;
+    position: relative;
+    right: 17px;
+
+}
+i{
+    padding:10px;
+}
+p{
+    font-size: 13px;
+}
+ .job{
+    width: 200px;
+    position: relative;
+    left: 34px;
+    top: 8px;
+ }
+ .name{
+    position:relative;
+    left:20px
+ }
+ .email{
+    position:relative;
+    left:20px
+ }
+ .create{
+    position:relative;
+    left:20px
+ }
+ 
+    .repeat{
+        position:relative;
+        left:20px
+        
+    }
+.account{
+    background-color: blue;
+    border-color: blue;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+    position: relative;
+    top: 5px;
+}
+.have{
+    position: relative;
+    top: 10px;
+}
+a{
+    text-decoration: none;
+}
+.phone{
+    position: relative;
+    left: 20px;
+}
+.btn{
+    position: relative;
+    top: 1px;
+    height: 20px;
+}
